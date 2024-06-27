@@ -1,0 +1,29 @@
+site_name: Shimon Darshan
+site_url: https://ShimonDarshan.github.io
+
+
+
+
+theme:
+  name: material
+  language: en
+
+nav:
+  - Home: index.md
+  - DevOps: blog/what-is-devops.md
+  - Python: blog/what-is-python.md
+
+plugins: 
+  - tags:
+      enabled: true
+      tags_file: tags.md
+  - blog:
+      blog_dir: .
+      categories: true
+  - search
+
+
+extra:
+  analytics:
+    provider: google
+    property: !ENV [GANALYTICSTOKEN]
