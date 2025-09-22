@@ -1,0 +1,4 @@
+site_name: My Blog
+site_url: https://ShimonDarshan.github.io
+theme:
+  name: material
