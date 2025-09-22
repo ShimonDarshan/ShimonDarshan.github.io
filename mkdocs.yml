@@ -1,6 +1,6 @@
 site_name: My Blog
 site_url: https://ShimonDarshan.github.io
 repo_url: https://github.com/ShimonDarshan/ShimonDarshan.github.io
-remote_name: ShimonDarshan/ShimonDarshan.github.io
+remote_name: https://github.com/ShimonDarshan/ShimonDarshan.github.io
 theme:
   name: material
