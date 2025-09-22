@@ -2,5 +2,22 @@ site_name: My Blog
 site_url: https://ShimonDarshan.github.io
 repo_url: https://github.com/ShimonDarshan/ShimonDarshan.github.io
 remote_name: https://github.com/ShimonDarshan/ShimonDarshan.github.io
+
 theme:
   name: material
+  language: en
+  palette:
+
+        # Palette toggle for light mode
+    - scheme: default
+      primary: teal
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
