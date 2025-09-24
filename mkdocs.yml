@@ -23,6 +23,11 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+plugins:
+  - search:
+      lang: en
+
+
 nav:
   - index.md
   - Blog:
