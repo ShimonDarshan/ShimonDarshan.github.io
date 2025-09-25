@@ -41,3 +41,5 @@ nav:
   - index.md
   - Blog:
       - index: blog/index.md
+      - Kubernetes:
+          - "Leader Election": blog/posts/leader-election.md
