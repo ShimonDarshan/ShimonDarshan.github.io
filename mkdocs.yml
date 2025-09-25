@@ -8,8 +8,7 @@ theme:
   name: material
   language: en
   palette:
-
-        # Palette toggle for light mode
+    # Palette toggle for light mode
     - scheme: default
       primary: teal
       toggle:
@@ -26,6 +25,16 @@ theme:
 plugins:
   - search:
       lang: en
+  - tags
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/shimond/
+      name: LinkedIn
+
+
 
 
 nav:
