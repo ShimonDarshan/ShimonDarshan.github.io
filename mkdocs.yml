@@ -29,6 +29,9 @@ plugins:
 
 extra:
   generator: false
+  analytics:
+    provider: google
+    property: G-LNCCESZGPP
   social:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/shimond/
