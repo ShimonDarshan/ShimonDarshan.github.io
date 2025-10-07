@@ -27,6 +27,9 @@ plugins:
       lang: en
   - tags
 
+copyright: |
+  &copy; 2025 Shimon Darshan.<br/>
+
 extra:
   generator: false
   analytics:
